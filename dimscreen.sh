@@ -4,7 +4,7 @@
 # regular dim screen program by debian distro.
 # Can be used in two ways -
 #  1. With command line argument for the value to dim to
-#  2. Listing few of the availabe reange of options.
+#  2. Listing the availabe range of dimming options.
 # 
 
 if [ "$1" == "-h" ]; then
